@@ -1,5 +1,3 @@
 Hello world!
 
 third commit
-
-line to be deleted by a revrt
